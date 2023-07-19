@@ -1,0 +1,145 @@
+<mxfile host="app.diagrams.net" modified="2023-07-10T02:55:35.684Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="Vkc-rdtn7G462VQjrH2v" version="21.6.1" type="device">
+  <diagram name="Page-1" id="71T6KuoD-LJVXBzpk2aA">
+    <mxGraphModel dx="714" dy="1662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-1" value="Abbey&lt;br&gt;(Main Entrance)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;" parent="1" source="omlJ6Cy1XjPE1LnsV1UD-2" target="omlJ6Cy1XjPE1LnsV1UD-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-2" value="&lt;div&gt;Catacombs&lt;/div&gt;&lt;div&gt;(Undead)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-3" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;shape=link;" parent="1" source="omlJ6Cy1XjPE1LnsV1UD-2" target="omlJ6Cy1XjPE1LnsV1UD-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="100" as="sourcePoint" />
+            <mxPoint x="450" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" source="omlJ6Cy1XjPE1LnsV1UD-4" target="omlJ6Cy1XjPE1LnsV1UD-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" source="omlJ6Cy1XjPE1LnsV1UD-4" target="omlJ6Cy1XjPE1LnsV1UD-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-4" value="&lt;div&gt;Fungal Grove&lt;/div&gt;&lt;div&gt;(Fungal Infestation)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="omlJ6Cy1XjPE1LnsV1UD-2" target="omlJ6Cy1XjPE1LnsV1UD-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="omlJ6Cy1XjPE1LnsV1UD-10" target="omlJ6Cy1XjPE1LnsV1UD-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" source="omlJ6Cy1XjPE1LnsV1UD-10" target="omlJ6Cy1XjPE1LnsV1UD-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-10" value="&lt;div&gt;Old Sewer&lt;/div&gt;&lt;div&gt;(Vermin and Insects)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" source="omlJ6Cy1XjPE1LnsV1UD-12" target="omlJ6Cy1XjPE1LnsV1UD-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-12" value="&lt;div&gt;Tomb and Treasury&lt;/div&gt;&lt;div&gt;(Living Statue)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="omlJ6Cy1XjPE1LnsV1UD-14" target="omlJ6Cy1XjPE1LnsV1UD-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-14" value="Natural Caverns&lt;br&gt;(Vampire Lair)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-17" value="S" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="335" y="108" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-20" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security;strokeWidth=1;fillStyle=solid;strokeColor=none;gradientColor=default;gradientDirection=radial;" parent="1" vertex="1">
+          <mxGeometry x="420" y="350" width="14.59" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-22" value="Old Well&lt;br&gt;(Secret Exit)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="205" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-25" value="S" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="190" y="194" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-26" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#000000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;gradientColor=default;gradientDirection=radial;" parent="1" vertex="1">
+          <mxGeometry x="328.87" y="199" width="6.13" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" source="omlJ6Cy1XjPE1LnsV1UD-28" target="omlJ6Cy1XjPE1LnsV1UD-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-28" value="Old City Ruins&lt;br&gt;(Sewer Entrance)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" source="omlJ6Cy1XjPE1LnsV1UD-30" target="omlJ6Cy1XjPE1LnsV1UD-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-30" value="&lt;div&gt;Dwarven Ruins&lt;/div&gt;&lt;div&gt;(Automatons)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" source="omlJ6Cy1XjPE1LnsV1UD-32" target="omlJ6Cy1XjPE1LnsV1UD-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-32" value="Giant Dwarven Door&lt;br&gt;(Locked Entrance)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" source="omlJ6Cy1XjPE1LnsV1UD-36" target="omlJ6Cy1XjPE1LnsV1UD-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-36" value="&lt;div&gt;Labyrinth&lt;/div&gt;&lt;div&gt;(Morlock high priest&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 73.55%; top: 74.99%; font-size: calc(var(--scale-factor)*8.98px); font-family: serif;&quot;&gt; &lt;/span&gt;&lt;span dir=&quot;ltr&quot; role=&quot;presentation&quot; style=&quot;left: 74.06%; top: 74.99%; font-size: calc(var(--scale-factor)*8.98px); font-family: serif; transform: scaleX(0.800699);&quot;&gt;w/ cultists&lt;/span&gt;)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" source="omlJ6Cy1XjPE1LnsV1UD-44" target="omlJ6Cy1XjPE1LnsV1UD-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-44" value="Submerged Caverns (boat towns and sea monsters)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" source="omlJ6Cy1XjPE1LnsV1UD-45" target="omlJ6Cy1XjPE1LnsV1UD-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-45" value="Underground Jungle (pod people plants)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-53" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security;strokeWidth=1;fillStyle=solid;gradientDirection=radial;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="1" vertex="1">
+          <mxGeometry x="490" y="212" width="14.59" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-54" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#2D7600;fillColor=#60a917;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;gradientDirection=radial;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="470" y="380" width="6.13" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;" parent="1" source="omlJ6Cy1XjPE1LnsV1UD-55" target="omlJ6Cy1XjPE1LnsV1UD-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="omlJ6Cy1XjPE1LnsV1UD-55" target="omlJ6Cy1XjPE1LnsV1UD-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="omlJ6Cy1XjPE1LnsV1UD-55" target="omlJ6Cy1XjPE1LnsV1UD-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-55" value="Ancient &amp;amp; Foreign Upside-Down Castle (Elder Evil)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="365" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-62" value="Entrance to Underdark?" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="305" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-65" value="&lt;div&gt;Portal to Kelipath? (Elder Evil Plane)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-69" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security;strokeWidth=1;fillStyle=solid;gradientDirection=radial;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="405.41" y="440" width="14.59" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-70" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;gradientDirection=radial;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="620" y="194" width="6.13" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-71" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.lock_with_key_security;strokeWidth=1;fillStyle=solid;gradientDirection=radial;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" parent="1" vertex="1">
+          <mxGeometry x="434.59000000000003" y="440" width="14.59" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="omlJ6Cy1XjPE1LnsV1UD-72" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#C73500;fillColor=#fa6800;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;gradientDirection=radial;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="328.87" y="108" width="6.13" height="13" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
